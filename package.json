@@ -1,0 +1,22 @@
+{
+  "name": "ts-coverage-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@types/jest": "^24.0.6",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23",
+    "jest": "^23",
+    "metro-react-native-babel-preset": "^0.52.0",
+    "ts-jest": "^23",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "react-native": "^0.58.5"
+  }
+}
